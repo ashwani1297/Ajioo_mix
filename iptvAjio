@@ -311,7 +311,92 @@ http://185.246.209.251:9090/starplus/index.m3u8?token=test
 https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/stargold/master_2500.m3u8|user-agent="Hotstar;in.startv.hotstar/8.9.2.714"
 #EXTINF:-1, tvg-id="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Stargold2.jpeg" tvg-name="Star Gold 2"  group-title="Star Channel",Star Gold 2
 https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="http://flametv.design/uploads/tv_image/sm/star-gold-select.jpeg" tvg-name="Star Gold Select HD"  group-title="Star Channel",Star Gold Select HD
+http://stream.iptvesun.com:25461/12w0803q6/UMQlCqsTJs/77518
 
+#EXTINF:-1, tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTBKFoR3GGwXmykpKIi2l2nnKEXp2jB5GK6BiBd55soIxr3Yp-6&usqp=CAU" tvg-name="Star Utsav Movies"  group-title="Star Channel",Star Utsav Movies
+http://stream.iptvesun.com:25461/12w0803q6/UMQlCqsTJs/77521
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://i.ibb.co/022PR4d/maa-music.jpg" tvg-name="Star Maa Music TataSky"  group-title="Star Channel",Star Maa Music TataSky
+http://45.120.188.62:80/0.ts
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://i.ibb.co/0hNtFnT/maa.jpg" tvg-name="Star Maa FHD"  group-title="Star Channel",Star Maa FHD
+https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/maatv/master.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://i.ibb.co/2Ng4vW0/asianetplus.png" tvg-name="Asianet Plus FHD"  group-title="Star Channel",Asianet Plus FHD
+https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/asianetplus/master.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://i.ibb.co/bW9BktP/stargoldhd.png" tvg-name="Star Gold HD"  group-title="Star Channel",Star Gold HD
+https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://i.ibb.co/bW9BktP/stargoldhd.png" tvg-name="Star Gold FHD"  group-title="Star Channel",Star Gold FHD
+http://tv.flametv.design/star009.m3u8?c=stargold&q=2500
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://i.ibb.co/bW9BktP/stargoldhd.png" tvg-name="Star Gold : APAC"  group-title="Star Channel",Star Gold : APAC
+http://tv-cdn.ihub.live:8083/StarGold/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://i.ibb.co/bW9BktP/stargoldhd.png" tvg-name="Star Gold HD Tatasky"  group-title="Star Channel",Star Gold HD Tatasky
+http://stream.iptvesun.com:25461/12w0803q6/UMQlCqsTJs/77517
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://i.ibb.co/gM6Xf7x/utsav.jpg" tvg-name="Star Utsav FHD"  group-title="Star Channel",Star Utsav FHD
+https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starutsav/master.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://i.ibb.co/NjV1kQ5/Star-Bharat-Official-Logo.jpg" tvg-name="Star Bharat FHD"  group-title="Star Channel",Star Bharat FHD
+http://tv.flametv.design/star009.m3u8?c=starbharat&q=2500
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://i.ibb.co/NjV1kQ5/Star-Bharat-Official-Logo.jpg" tvg-name="Star Bharat"  group-title="Star Channel",Star Bharat
+https://itpolly.iptv.digijadoo.net/live/star_bharat/playlist.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://i.ibb.co/qdNGNpt/parvaha.png" tvg-name="Star Pravah FHD"  group-title="Star Channel",Star Pravah FHD
+https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starpravah/master.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://i.ibb.co/R231bDp/maa-gold.png" tvg-name="Maa Gold"  group-title="Star Channel",Maa Gold
+https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/maagold/master.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://i.ibb.co/rFDJNjL/Asianethd.png" tvg-name="Asianet HD"  group-title="Star Channel",Asianet HD
+https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/asianethd/master.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://i.ibb.co/rFDJNjL/Asianethd.png" tvg-name="Asianet HD TataSky"  group-title="Star Channel",Asianet HD TataSky
+http://45.120.188.194:80/0.ts
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://i.ibb.co/SvhyPgz/vvv.png" tvg-name="Star Vijay FHD"  group-title="Star Channel",Star Vijay FHD
+https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starvijay/master.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://i.ibb.co/VLdqt5B/jalsa.jpg" tvg-name="STAR JALSA HD TATASKY"  group-title="Star Channel",STAR JALSA HD TATASKY
+http://175.41.46.16:8081/hls/7.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://i.ibb.co/VLdqt5B/jalsa.jpg" tvg-name="STAR JALSA MOVIES HD TATASKY"  group-title="Star Channel",STAR JALSA MOVIES HD TATASKY
+http://175.41.46.16:8081/hls/4.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://i.ibb.co/VLdqt5B/jalsa.jpg" tvg-name="Star Jalsha FHD"  group-title="Star Channel",Star Jalsha FHD
+https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starjalsa/master.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://i.ibb.co/VLdqt5B/jalsa.jpg" tvg-name="Star Jalsha HD"  group-title="Star Channel",Star Jalsha HD
+https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://i.ibb.co/VLdqt5B/jalsa.jpg" tvg-name="Star Jalsha Movies"  group-title="Star Channel",Star Jalsha Movies
+https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://i.ibb.co/WVVB830/Vijay-HD-Logo.jpg" tvg-name="Star Vijay HD TataSky"  group-title="Star Channel",Star Vijay HD TataSky
+http://45.120.188.197:80/0.ts
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://i.ibb.co/YhksrQ4/suvarna.jpg" tvg-name="Star Suvarna FHD"  group-title="Star Channel",Star Suvarna FHD
+https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starsuvarna/master.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Stargold2.jpeg" tvg-name="Star Gold 2"  group-title="Star Channel",Star Gold 2
+https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/StarPlus_logo.jpg/220px-StarPlus_logo.jpg" tvg-name="Star Plus FHD"  group-title="Star Channel",Star Plus FHD
+http://tv.flametv.design/star009.m3u8?c=starplushd&q=2500
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/StarPlus_logo.jpg/220px-StarPlus_logo.jpg" tvg-name="Star Plus HD"  group-title="Star Channel",Star Plus HD
+https://itpolly.iptv.digijadoo.net/live/star_plus_hd/playlist.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/StarPlus_logo.jpg/220px-StarPlus_logo.jpg" tvg-name="Star Plus HD TataSky"  group-title="Star Channel",Star Plus HD TataSky
+http://175.41.46.16:8081/hls/1.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="NULL" tvg-name="STAR MOVIES HD TATASKY"  group-title="Star Channel",STAR MOVIES HD TATASKY
+http://175.41.46.16:8081/hls/2.m3u8
 #EXTINF:0 tvg-id="1134" tvg-name="Star Gold Select HD" group-title="Hindi" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/12/stargold-select-hd-2.jpg",Star Gold Select HD
 https://foobtv.co.in/iptv/iptv.php?id=48108
 #EXTINF:0 tvg-id="571" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png" group-title="Hindi",TLC
